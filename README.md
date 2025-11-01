@@ -1,2 +1,2 @@
-# MRRC-Phishing-App-Prototype
-Prototype for our phishing app
+# MRRC-Construction-radar-Prototype
+Prototype for our construction radar program
