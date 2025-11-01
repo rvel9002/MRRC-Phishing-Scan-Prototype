@@ -1,4 +1,2 @@
-# MRRC-Phishing-Scan-Prototype
-Prototype for our phishing scan extension program
-test
-test
+# MRRC-Phishing-App-Prototype
+Prototype for our phishing app
